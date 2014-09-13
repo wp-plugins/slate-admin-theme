@@ -1,13 +1,13 @@
 === Slate Admin Theme ===
 Contributors: ryansommers
-Tags: admin theme, admin page, admin page framework, wordpress admin panel, admin, plugin, admin panel, wordpress, best admin panel, wordpress admin theme, wordpress admin panel, flat admin theme, modern admin theme, simple admin theme, ryan sommers.
+Tags: admin theme, admin page, admin page framework, wordpress admin panel, admin, plugin, admin panel, wordpress, best admin panel, wordpress admin theme, wordpress admin panel, flat admin theme, modern admin theme, simple admin theme, admin theme style plugin, free admin theme style plugin, backend theme, back end theme, custom admin theme, new admin ui, ryan sommers.
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A clean, simplified WordPress Admin theme.
+A clean, simplified WordPress 4.0+ Admin theme.
 
 == Description ==
 
@@ -34,6 +34,10 @@ This is my first admin theme, and given all the various states and pages there a
 
 == Changelog ==
 
+= 1.0.3 =
+* Minor CSS fix to the admin menu.
+* Updates to readme.txt.
+
 = 1.0.2 =
 * Added new Login page styles.
 
@@ -41,10 +45,16 @@ This is my first admin theme, and given all the various states and pages there a
 * Added new Dashboard styles.
 * Removed jQuery UI.
 
-= 1.0.0 =
+= 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
 
+= 1.0.3 =
+* Minor CSS fix to the admin menu.
+
 = 1.0.2 =
 Added new Login page styles.
+
+= 1.0.1 =
+* Added new Dashboard styles.
