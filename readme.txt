@@ -11,7 +11,9 @@ A clean, simplified WordPress 4.0+ Admin theme.
 
 == Description ==
 
-Slate provides a clean, simplified design for your WordPress 4.0 Admin area. 
+Slate provides a clean, simplified design for your WordPress 4.0+ Admin area. 
+
+You can read more about the theme at [RyanSommers.com](http://ryansommers.com/2014/09/09/slate-a-wordpress-admin-theme/ "Slate: A WordPress Admin Theme")
 
 Not compatible with any version before 4.0.
 
