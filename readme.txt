@@ -18,6 +18,8 @@ Our goal was to simplify the visual design with a primary focus on the content w
 
 You can read more about the theme at [RyanSommers.com](http://ryansommers.com/2014/09/09/slate-a-wordpress-admin-theme/ "Slate: A WordPress Admin Theme").
 
+If you like Slate, please consider leaving a review here on WordPress. Thank you!
+
 = Slate Pro =
 Looking for more control over your WordPress Admin while still maintaining the clean and simplified design of Slate? Check out [Slate Pro](http://sevenbold.com/wordpress/slate-pro/ "Slate Pro: A Premium White Label WordPress Admin Theme"), a premium white label WordPress Admin theme.
 
